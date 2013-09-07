@@ -1,0 +1,17 @@
+{
+    "name": "bojik/phingext",
+    "description": "Additional commands",
+    "keywords": ["build", "tool", "task", "phing"],
+    "homepage": "http://devgu.ru/",
+    "license": "LGPL3",
+    "authors": [
+        {
+            "name": "Alexander Rodionov",
+            "email": "web@devgu.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0"
+    },
+    "include-path": ["classes"]
+}
